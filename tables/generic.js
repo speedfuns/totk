@@ -104,5 +104,4 @@ bingoList[25] = [
   { name: "Very long goal", types: [""] },
 ];
 
-
 $(function() { srl.bingo(bingoList, 5); });
