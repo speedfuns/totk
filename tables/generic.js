@@ -2,108 +2,107 @@ var bingoList = [];
 
 
 bingoList[0] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
  ];
 
 bingoList[1] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
 ];
 
 bingoList[2] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
 ];
 
-
 bingoList[3] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
 ];
 
 bingoList[4] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
 ];
 
 bingoList[5] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
 ];
 
 bingoList[6] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
 ];
 
 bingoList[7] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
 ];
 
 bingoList[8] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Short goal", types: [""] },
 ];
 
 bingoList[9] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Normal goal", types: [""] },
 ];
 
 bingoList[10] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Normal goal", types: [""] },
 ];
 
 bingoList[11] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Normal goal", types: [""] },
 ];
 
 bingoList[12] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Normal goal", types: [""] },
 ];
 
 bingoList[13] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Normal goal", types: [""] },
 ];
 
 bingoList[14] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Normal goal", types: [""] },
 ];
 
 bingoList[15] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Normal goal", types: [""] },
 ];
 
 bingoList[16] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Normal goal", types: [""] },
 ];
 
 bingoList[17] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Long goal", types: [""] },
 ];
 
 bingoList[18] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Long goal", types: [""] },
 ];
 
 bingoList[19] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Long goal", types: [""] },
 ];
 
 bingoList[20] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Long goal", types: [""] },
 ];
 
 bingoList[21] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Long goal", types: [""] },
 ];
 
 bingoList[22] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Long goal", types: [""] },
 ];
 
 bingoList[23] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Long goal", types: [""] },
 ];
 
 bingoList[24] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Long goal", types: [""] },
 ];
 
 bingoList[25] = [
-  { name: "Lorem Ipsum", types: [""] },
+  { name: "Very long goal", types: [""] },
 ];
 
 
