@@ -1,6 +1,5 @@
 var bingoList = [];
 
-
 bingoList[0] = [
   { name: "Short goal", types: [""] },
  ];
